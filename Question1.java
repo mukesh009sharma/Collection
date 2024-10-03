@@ -1,4 +1,5 @@
 //Q1.Create a RemoteControl interface with methods turnOn() and turnOff(). Implement this interface in TV and Fan classes, showing how they can be controlled using these methods. 
+// collection questions
 interface RemoteControl {
     void turnOn();
     void turnOff();
